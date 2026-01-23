@@ -6,4 +6,4 @@ permakink: /about/
 
 ---
 
-PhD student in NLP at the ELLIS Institute Finland and TurkuNLP.
+(Under construction)
