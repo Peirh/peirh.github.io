@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/avatar1.JPG"
+  avatar           : "avatar1.JPG"
   name             : "Renhao Pei"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in NLP at ELLIS Institute Finland & TurkuNLP"
