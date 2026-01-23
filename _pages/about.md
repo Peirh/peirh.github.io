@@ -1,7 +1,6 @@
 ---
-permalink: /
-title: "PhD student in NLP"
-layout: home
+title: "About"
+layout: page
 author_profile: true
 
 ---
