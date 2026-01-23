@@ -26,9 +26,9 @@ author:
   avatar           : "avatar1.JPG"
   name             : "Renhao Pei"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in NLP at ELLIS Institute Finland & TurkuNLP"
+  bio              : "PhD student at TurkuNLP & ELLIS Institute Finland"
   location         : # "Earth"
-  employer         : "University of Turku"
+  employer         : "University of Turku, Finland"
   uri              : # URL
   email            : # "none@example.org" 
 
@@ -40,6 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0005-1526-7466"
   semantic         : "https://www.semanticscholar.org/author/Renhao-Pei/2217251286"
+  dblp             : "https://dblp.org/pid/347/2100.html"
   ssrn             : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -66,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/renhaopei"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
