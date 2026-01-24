@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* PhD in Computer Science, University of Turku (2026 - )
 * MSc in Computational Linguistics, Ludwig Maximilian University of Munich (2022 - 2025)
 * MA in Linguistics, Utrecht University (2019 - 2021)
 * BA in German Language and Linguistics, Shanghai International Studies University (2015 - 2019)
