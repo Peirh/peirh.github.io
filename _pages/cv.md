@@ -22,7 +22,7 @@ Work experience
   
 Honors & Awards
 ======
-My Project *Some recent phonetic changes in the Shanghai dialect—college students from Shanghai as informants* (me as the Project leader) funded by *National Training Program of Innovation and Entrepreneurship for Undergraduates* won the following prizes:
+My research project *Some recent phonetic changes in the Shanghai dialect—college students from Shanghai as informants* funded by *National Training Program of Innovation and Entrepreneurship for Undergraduates* won the following prizes:
 
 * Best Creative Project, at the 10th National University Student Innovation and Entrepreneurship Annual Meeting, Dalian, China (11/2017)
 * Excellent Innovation Report Award, on the 5th Shanghai’s University Student Innovation and Entrepreneurship Forum, Shanghai, China (11/2017)
