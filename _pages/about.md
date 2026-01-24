@@ -5,4 +5,5 @@ permalink: /
 
 ---
 
-(Under construction)
+I am currently a PhD student at **[TurkuNLP](https://turkunlp.org/)** under **[Prof. Dr. Shaoxiong Ji](https://shaoxiongji.github.io/)**'s supervision.   
+
