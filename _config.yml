@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Renhao Pei"
 title_separator          : "-"
 name                     : &name "Renhao Pei"
-description              : &description "Doctoral Researcher at TurkuNLP & ELLIS PhD student"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Doctoral Researcher at TurkuNLP & ELLIS PhD Student"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://peirh.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "avatar1.JPG"
   name             : "Renhao Pei"
   pronouns         : # example: "she/her"  
-  bio              : "Doctoral Researcher at TurkuNLP & ELLIS PhD student"
+  bio              : "Doctoral Researcher at TurkuNLP & ELLIS PhD Student"
   location         : # "Earth"
   employer         : "University of Turku, Finland"
   uri              : # URL
